@@ -1,0 +1,50 @@
+[
+    {
+        "id": 102,
+        "name": "Tire Replase",
+        "price": 1500,
+        "time": "2 hour",
+        "serviceImg": "https://i.ibb.co/zHPm0hg/new-one-mechanic-holding-tire-repair-garage-replacement-winter-summer-tires-146671-16773.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    },
+    {
+        "id": 103,
+        "name": "car wash",
+        "price": 2000,
+        "time": "3 hour",
+        "serviceImg": "https://i.ibb.co/Wn6V3dR/professional-washer-blue-uniform-washing-luxury-car-with-water-gun-open-air-car-wash-496169-333.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    },
+    {
+        "id": 104,
+        "name": "Engin Repair",
+        "price": 4500,
+        "time": "1 day",
+        "serviceImg": "https://i.ibb.co/cDyCnph/muscular-car-service-worker-repairing-vehicle-146671-19603.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    },
+    {
+        "id": 105,
+        "name": "Oil Change ",
+        "price": 500,
+        "time": "30 minute",
+        "serviceImg": "https://i.ibb.co/092kKwT/Auto-mechanic-checking-car.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    },
+    {
+        "id": 106,
+        "name": "Test Driving",
+        "price": 1000,
+        "time": "1 hour",
+        "serviceImg": "https://i.ibb.co/86MdngT/Professional-female-mechanic-standing-near-automobile-lifted-on-bridge-observing-and-checking-wheel.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    },
+    {
+        "id": 107,
+        "name": "Color Car Body",
+        "price": 5000,
+        "time": "3 days",
+        "serviceImg": "https://i.ibb.co/bQMmwzk/Man-with-protective-clothes-and-mask-painting-automobile-car-bumper-in-repair-shop.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem, molestiae. Perspiciatis porro labore, asperiores enim delectus dicta. Ab voluptatum commodi ex, numquam dolores, quasi deleniti, necessitatibus exercitationem quos alias dolorum?"
+    }
+]

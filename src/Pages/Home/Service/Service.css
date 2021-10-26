@@ -1,0 +1,12 @@
+.single-car{
+    background-color: rgb(246, 255, 252);
+    border: 1px solid rgb(157, 181, 167);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.single-car img{
+    height: 230px;
+    width: 300px;
+    border-radius: 20px;
+}
