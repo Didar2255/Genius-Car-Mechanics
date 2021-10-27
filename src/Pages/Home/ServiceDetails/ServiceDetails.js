@@ -11,7 +11,7 @@ const ServiceDetails = () => {
         history.push('/home')
     }
     useEffect(() => {
-        fetch(`http://localhost:5000/services/${serviceId}`)
+        fetch(`https://frozen-hollows-99855.herokuapp.com/services/${serviceId}`)
             .then(res => res.json())
             .then(data => setService(data))
     }, [])
